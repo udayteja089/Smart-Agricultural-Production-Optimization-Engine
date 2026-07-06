@@ -46,6 +46,10 @@ Recommended crop for cultivation.
 - Prediction Pipeline
 - Flask Web Application
 
+## Demo & Repository
+- **Github Repository** [https://github.com/udayteja089/Smart-Agricultural-Production-Optimization-Engine](https://github.com/udayteja089/Smart-Agricultural-Production-Optimization-Engine)
+- **Demo Video** [Click here for full project demo](https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn)
+
 ## Author
 
-hemanth kumar
+Gorli Uday Teja
